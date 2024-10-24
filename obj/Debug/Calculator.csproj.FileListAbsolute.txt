@@ -1,0 +1,12 @@
+D:\vscode\Purple\Calculator Project\Calculator\bin\Debug\Calculator.exe.config
+D:\vscode\Purple\Calculator Project\Calculator\bin\Debug\Calculator.exe
+D:\vscode\Purple\Calculator Project\Calculator\bin\Debug\Calculator.pdb
+D:\vscode\Purple\Calculator Project\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\vscode\Purple\Calculator Project\Calculator\obj\Debug\Calculator.fmCalculator.resources
+D:\vscode\Purple\Calculator Project\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\vscode\Purple\Calculator Project\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\vscode\Purple\Calculator Project\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\vscode\Purple\Calculator Project\Calculator\obj\Debug\Calculator.exe
+D:\vscode\Purple\Calculator Project\Calculator\obj\Debug\Calculator.pdb
+D:\vscode\Purple\Calculator Project\Calculator\bin\Debug\Guna.UI2.dll
+D:\vscode\Purple\Calculator Project\Calculator\obj\Debug\Calculator.csproj.Up2Date
