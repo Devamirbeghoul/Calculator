@@ -1,5 +1,3 @@
-﻿Here's the updated README:
-
 # Simple Calculator
 
 ## Overview
