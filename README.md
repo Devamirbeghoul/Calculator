@@ -44,6 +44,6 @@ This is a basic calculator application built using Windows Forms (WinForms) in C
 
 ## Author
 
-Developed by **Amir Abdeldjalil**. Feel free to reach out via zruchiha005@gmail.com for any questions or contributions.
+Developed by **Amir Abdeldjalil**
 
 ---
